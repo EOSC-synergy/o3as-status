@@ -4,6 +4,9 @@ repo: o3as-status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: O3as main website
+    url: https://o3as.data.kit.edu
+    __dangerous__disable_verify_peer: true
   - name: O3as WebApp (frontend)
     url: http://o3web.test.fedcloud.eu/
   - name: O3as WebApp (backend)
@@ -17,9 +20,6 @@ sites:
   - name: O3as documentation
     url: https://o3as.readthedocs.io
     icon: https://github.com/readthedocs/readthedocs.org/blob/master/docs/img/logo.png
-  - name: O3as main website
-    url: https://o3as.data.kit.edu
-    __dangerous__disable_verify_peer: true
 
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
