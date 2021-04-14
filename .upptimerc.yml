@@ -4,12 +4,14 @@ repo: o3as-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: O3as WebApp (test)
+  - name: O3as WebApp (frontend)
     url: http://o3web.test.fedcloud.eu/
-  - name: O3api test endpoint '#1
+  - name: O3as WebApp (backend)
+    url: http://o3web.test.fedcloud.eu:5000/plot
+  - name: O3api (API endpoint)
     url: http://o3api.test.fedcloud.eu:30505/api/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
-  - name: O3api test endpoint '#2
+  - name: O3api - development (API endpoint)
     url: http://o3api.test.fedcloud.eu:30509/api/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3as documentation
