@@ -1,4 +1,4 @@
-# [📈 Live Status](https:///o3as-status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://eosc-synergy.github.io/o3as-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Project EOSC-synergy](www.eosc-synergy.eu), powered by [Upptime](https://github.com/upptime/upptime).
 
