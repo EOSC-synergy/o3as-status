@@ -1,5 +1,5 @@
 # Change these first
-owner: eosc-synergy # Your GitHub organization or username
+owner: EOSC-synergy # Your GitHub organization or username
 repo: o3as-status # Your GitHub repository name
 
 # Add your sites here
@@ -25,9 +25,9 @@ assignees: # Users to assign downtime issues (optional)
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: /o3as-status
+  ##c.n.a.m.e.: status.o3as.fedcloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /o3as-status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: o3as status monitoring
   introTitle: "Status monitoring of O3as services"
