@@ -6,6 +6,7 @@ repo: o3as-status # Your GitHub repository name
 sites:
   - name: O3as main website
     url: https://o3as.data.kit.edu
+    __dangerous__disable_verify_host: true
   - name: O3as WebApp (test)
   - name: O3api test endpoint '#1
     url: http://o3api.test.fedcloud.eu:30505/api/ui/
