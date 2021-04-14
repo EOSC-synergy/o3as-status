@@ -14,10 +14,10 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3as documentation
     url: https://o3as.readthedocs.io
-    icon: https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg
+    icon: https://github.com/readthedocs/readthedocs.org/blob/master/docs/img/logo.png
   - name: O3as main website
     url: https://o3as.data.kit.edu
-    __dangerous__disable_verify_host: true
+    __dangerous__disable_verify_peer: true
 
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
