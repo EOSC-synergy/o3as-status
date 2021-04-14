@@ -1,6 +1,6 @@
 # [📈 Live Status](https://eosc-synergy.github.io/o3as-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Project EOSC-synergy](www.eosc-synergy.eu), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [O3as thematic service](https://o3as.data.kit.edu), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/eosc-synergy/o3as-status/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/eosc-synergy/o3as-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
