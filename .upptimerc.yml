@@ -4,10 +4,8 @@ repo: o3as-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: O3as main website
-    url: https://o3as.data.kit.edu
-    __dangerous__disable_verify_host: true
   - name: O3as WebApp (test)
+    url: http://o3web.test.fedcloud.eu/
   - name: O3api test endpoint '#1
     url: http://o3api.test.fedcloud.eu:30505/api/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
@@ -17,6 +15,13 @@ sites:
   - name: O3as documentation
     url: https://o3as.readthedocs.io
     icon: https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg
+  - name: O3as main website
+    url: https://o3as.data.kit.edu
+    __dangerous__disable_verify_host: true
+
+assignees: # Users to assign downtime issues (optional)
+  - vykozlov
+  - BorjaEst
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
