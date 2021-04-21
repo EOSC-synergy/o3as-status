@@ -20,14 +20,12 @@ sites:
   - name: O3as documentation
     url: https://o3as.readthedocs.io
     icon: https://github.com/readthedocs/readthedocs.org/blob/master/docs/img/logo.png
-
 assignees: # Users to assign downtime issues (optional)
   - vykozlov
   - BorjaEst
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  ##c.n.a.m.e.: status.o3as.fedcloud.eu
+  ## c.n.a.m.e.: status.o3as.fedcloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /o3as-status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
