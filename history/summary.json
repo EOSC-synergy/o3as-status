@@ -40,7 +40,7 @@
     "url": "http://o3web.test.fedcloud.eu:5000/plot",
     "icon": "https://favicons.githubusercontent.com/o3web.test.fedcloud.eu",
     "slug": "o3as-web-app-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
