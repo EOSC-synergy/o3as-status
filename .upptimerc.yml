@@ -11,10 +11,13 @@ sites:
     url: http://o3web.test.fedcloud.eu/
   - name: O3as WebApp (backend)
     url: http://o3web.test.fedcloud.eu:5000/plot
-  - name: O3api (API endpoint)
-    url: http://o3api.test.fedcloud.eu:30505/api/ui/
+  - name: O3api (API production endpoint)
+    url: https://api.o3as.fedcloud.eu/api/v1/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
-  - name: O3api - development (API endpoint)
+  - name: O3api - testing (API testing endpoint)
+    url: http://o3api.test.fedcloud.eu:30505/api/v1/ui/
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+  - name: O3api - development (API development endpoint)
     url: http://o3api.test.fedcloud.eu:30509/api/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3as documentation
