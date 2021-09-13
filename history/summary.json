@@ -4,7 +4,7 @@
     "url": "https://o3as.data.kit.edu",
     "icon": "https://favicons.githubusercontent.com/o3as.data.kit.edu",
     "slug": "o3as-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 775,
-    "timeWeek": 657,
+    "timeWeek": 645,
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {}
