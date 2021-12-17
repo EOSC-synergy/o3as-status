@@ -6,9 +6,10 @@ repo: o3as-status # Your GitHub repository name
 sites:
   - name: O3as main website
     url: https://o3as.data.kit.edu
+    icon: https://git.scc.kit.edu/synergy.o3as/o3docs/-/blob/tutorial/_static/images/o3as-logo.png
     __dangerous__disable_verify_peer: true
- # - name: O3as WebApp (frontend)
- #   url: http://o3web.test.fedcloud.eu/
+  - name: O3as WebApp (frontend)
+    url: http://o3web.test.fedcloud.eu/
  # - name: O3as WebApp (backend)
  #   url: http://o3web.test.fedcloud.eu:5000/plot
   - name: O3api (API production endpoint)
