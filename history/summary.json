@@ -2,7 +2,7 @@
   {
     "name": "O3as main website",
     "url": "https://o3as.data.kit.edu",
-    "icon": "https://favicons.githubusercontent.com/o3as.data.kit.edu",
+    "icon": "https://git.scc.kit.edu/synergy.o3as/o3docs/-/blob/tutorial/_static/images/o3as-logo.png",
     "slug": "o3as-main-website",
     "status": "up",
     "uptime": "100.00%",
@@ -15,6 +15,24 @@
     "timeWeek": 678,
     "timeMonth": 745,
     "timeYear": 708,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "O3as WebApp (frontend)",
+    "url": "http://o3web.test.fedcloud.eu/",
+    "icon": "https://favicons.githubusercontent.com/o3web.test.fedcloud.eu",
+    "slug": "o3as-web-app-frontend",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 562,
+    "timeDay": 0,
+    "timeWeek": 485,
+    "timeMonth": 505,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
