@@ -13,7 +13,7 @@
     "time": 707,
     "timeDay": 635,
     "timeWeek": 658,
-    "timeMonth": 737,
+    "timeMonth": 738,
     "timeYear": 707,
     "dailyMinutesDown": {}
   },
@@ -40,9 +40,9 @@
     "url": "https://api.o3as.fedcloud.eu/api/v1/ui/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-api-production-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 567,
     "timeMonth": 635,
     "timeYear": 649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-17": 0
+    }
   },
   {
     "name": "O3api - testing (API testing endpoint)",
