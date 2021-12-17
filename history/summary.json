@@ -40,19 +40,19 @@
     "url": "https://api.o3as.fedcloud.eu/api/v1/ui/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-api-production-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 557,
-    "timeWeek": 567,
-    "timeMonth": 635,
-    "timeYear": 649,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 647,
+    "timeDay": 499,
+    "timeWeek": 547,
+    "timeMonth": 627,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-17": 12
     }
   },
   {
