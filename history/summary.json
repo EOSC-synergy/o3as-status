@@ -40,9 +40,9 @@
     "url": "https://api.o3as.fedcloud.eu/api/v1/ui/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-api-production-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "70.98%",
+    "uptimeDay": "70.97%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.66%",
@@ -52,6 +52,7 @@
     "timeMonth": 637,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2022-01-30": 0,
       "2022-01-29": 418,
       "2022-01-14": 357,
       "2021-12-17": 12
