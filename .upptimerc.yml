@@ -9,7 +9,7 @@ sites:
     icon: https://git.scc.kit.edu/synergy.o3as/o3docs/-/raw/tutorial/_static/images/o3as-logo.png
     __dangerous__disable_verify_peer: true
   - name: O3as WebApp (frontend)
-    url: http://o3web.test.fedcloud.eu/
+    url: http://o3web.test.fedcloud.eu:3000/
  # - name: O3as WebApp (backend)
  #   url: http://o3web.test.fedcloud.eu:5000/plot
   - name: O3api (API production endpoint)
