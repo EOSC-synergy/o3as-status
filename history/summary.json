@@ -22,9 +22,9 @@
     "url": "http://o3web.test.fedcloud.eu:3000/",
     "icon": "https://favicons.githubusercontent.com/o3web.test.fedcloud.eu",
     "slug": "o3as-web-app-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 494,
     "timeMonth": 494,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "O3api (API production endpoint)",
@@ -102,18 +104,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-development-api-development-endpoint",
     "status": "down",
-    "uptime": "93.59%",
+    "uptime": "93.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.49%",
-    "uptimeYear": "93.59%",
+    "uptimeMonth": "53.38%",
+    "uptimeYear": "93.57%",
     "time": 276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-03-29": 1129,
+      "2022-03-29": 1176,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
