@@ -9,17 +9,17 @@ sites:
     icon: https://git.scc.kit.edu/synergy.o3as/o3docs/-/raw/tutorial/_static/images/o3as-logo.png
     __dangerous__disable_verify_peer: true
   - name: O3as WebApp (frontend)
-    url: http://o3web.test.fedcloud.eu:3000/
+    url: http://web.o3as.fedcloud.eu
  # - name: O3as WebApp (backend)
  #   url: http://o3web.test.fedcloud.eu:5000/plot
   - name: O3api (API production endpoint)
     url: https://api.o3as.fedcloud.eu/api/v1/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3api - testing (API testing endpoint)
-    url: http://o3api.test.fedcloud.eu:30505/api/v1/ui/
+    url: https://o3api.test.fedcloud.eu/api/v1/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3api - development (API development endpoint)
-    url: http://o3api.test.fedcloud.eu:30509/api/ui/
+    url: https://o3api.test.fedcloud.eu/api/v1/ui/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3as documentation
     url: https://o3as.readthedocs.io
