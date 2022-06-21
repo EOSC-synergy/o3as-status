@@ -126,11 +126,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-development-api-development-endpoint",
     "status": "up",
-    "uptime": "73.96%",
+    "uptime": "73.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.56%",
-    "uptimeYear": "73.96%",
+    "uptimeMonth": "58.59%",
+    "uptimeYear": "73.97%",
     "time": 265,
     "timeDay": 170,
     "timeWeek": 167,
@@ -228,19 +228,19 @@
     "url": "https://o3as.readthedocs.io",
     "icon": "https://github.com/readthedocs/readthedocs.org/raw/master/docs/img/logo.png",
     "slug": "o3as-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 401,
-    "timeWeek": 428,
-    "timeMonth": 403,
+    "timeDay": 318,
+    "timeWeek": 397,
+    "timeMonth": 395,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2022-06-21": 39
+      "2022-06-21": 54
     }
   }
 ]
