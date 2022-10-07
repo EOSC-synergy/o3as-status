@@ -17,9 +17,13 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3api - testing (API testing endpoint)
     url: https://o3api.test.fedcloud.eu/api/v1/ui/
+    # development or testing uses LetsEncrypt staging which is 'untrusted'
+    __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3api - development (API development endpoint)
     url: https://o3api.test.fedcloud.eu/api/v1/ui/
+    # development or testing uses LetsEncrypt staging which is 'untrusted'
+    __dangerous__insecure: true
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: O3as documentation
     url: https://o3as.readthedocs.io
