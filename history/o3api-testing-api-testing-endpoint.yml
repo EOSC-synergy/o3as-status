@@ -1,7 +1,7 @@
 url: https://o3api.test.fedcloud.eu/api/v1/ui/
-status: down
-code: 404
-responseTime: 738
-lastUpdated: 2023-05-11T10:18:33.942Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2023-05-11T16:59:31.050Z
 startTime: Fri Aug 20 2021 15:23:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
