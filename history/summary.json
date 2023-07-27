@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1001,
-    "timeDay": 654,
-    "timeWeek": 665,
-    "timeMonth": 664,
-    "timeYear": 1105,
+    "timeDay": 733,
+    "timeWeek": 654,
+    "timeMonth": 673,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2023-01-25": 46
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.o3as.fedcloud.eu.ico",
     "slug": "o3as-web-app-frontend",
     "status": "up",
-    "uptime": "79.39%",
+    "uptime": "79.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.11%",
-    "time": 961,
-    "timeDay": 1886,
-    "timeWeek": 1088,
-    "timeMonth": 998,
+    "time": 962,
+    "timeDay": 954,
+    "timeWeek": 1047,
+    "timeMonth": 1005,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-04-21": 1001,
@@ -227,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.72%",
     "time": 734,
-    "timeDay": 952,
-    "timeWeek": 613,
-    "timeMonth": 615,
+    "timeDay": 610,
+    "timeWeek": 599,
+    "timeMonth": 621,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2023-05-16": 12,
@@ -262,16 +262,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-testing-api-testing-endpoint",
     "status": "up",
-    "uptime": "86.04%",
+    "uptime": "86.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "79.17%",
-    "time": 631,
-    "timeDay": 1118,
-    "timeWeek": 730,
-    "timeMonth": 604,
-    "timeYear": 644,
+    "uptimeYear": "79.44%",
+    "time": 632,
+    "timeDay": 1300,
+    "timeWeek": 810,
+    "timeMonth": 630,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-07-14": 98,
       "2023-07-12": 11,
@@ -355,8 +355,7 @@
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
-      "2022-07-28": 1440,
-      "2022-07-27": 1440
+      "2022-07-28": 1440
     }
   },
   {
@@ -365,14 +364,14 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-development-api-development-endpoint",
     "status": "up",
-    "uptime": "74.82%",
+    "uptime": "74.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "79.17%",
+    "uptimeYear": "79.44%",
     "time": 148,
-    "timeDay": 141,
-    "timeWeek": 171,
+    "timeDay": 111,
+    "timeWeek": 161,
     "timeMonth": 144,
     "timeYear": 148,
     "dailyMinutesDown": {
@@ -458,8 +457,7 @@
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
-      "2022-07-28": 1440,
-      "2022-07-27": 1440
+      "2022-07-28": 1440
     }
   },
   {
@@ -473,10 +471,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 403,
-    "timeWeek": 495,
-    "timeMonth": 557,
+    "time": 417,
+    "timeDay": 360,
+    "timeWeek": 460,
+    "timeMonth": 558,
     "timeYear": 423,
     "dailyMinutesDown": {}
   }
