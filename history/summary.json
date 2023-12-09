@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.o3as.fedcloud.eu.ico",
     "slug": "o3as-web-app-frontend",
     "status": "up",
-    "uptime": "82.28%",
+    "uptime": "82.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.38%",
+    "uptimeYear": "63.41%",
     "time": 1169,
     "timeDay": 690,
     "timeWeek": 1947,
@@ -268,17 +268,19 @@
     "url": "https://o3as.readthedocs.io",
     "icon": "https://github.com/readthedocs/readthedocs.org/raw/master/docs/img/logo.png",
     "slug": "o3as-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
+    "time": 415,
     "timeDay": 181,
     "timeWeek": 356,
     "timeMonth": 336,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   }
 ]
