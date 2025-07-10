@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 638,
-    "timeWeek": 828,
-    "timeMonth": 832,
+    "time": 782,
+    "timeDay": 985,
+    "timeWeek": 867,
+    "timeMonth": 840,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2024-10-22": 16
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
-    "time": 1079,
-    "timeDay": 842,
-    "timeWeek": 1071,
-    "timeMonth": 1004,
+    "time": 1078,
+    "timeDay": 1097,
+    "timeWeek": 1086,
+    "timeMonth": 1011,
     "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-04-16": 617,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.78%",
     "time": 617,
-    "timeDay": 549,
-    "timeWeek": 642,
-    "timeMonth": 585,
+    "timeDay": 653,
+    "timeWeek": 655,
+    "timeMonth": 590,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2025-04-16": 617,
@@ -84,7 +84,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-testing-api-testing-endpoint",
     "status": "down",
-    "uptime": "77.85%",
+    "uptime": "77.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -93,7 +93,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 740,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-05-26": 378,
       "2025-05-25": 1440,
@@ -312,8 +312,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 603,
-      "2024-10-17": 233,
-      "2024-07-10": 266
+      "2024-10-17": 233
     }
   },
   {
@@ -322,7 +321,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-development-api-development-endpoint",
     "status": "down",
-    "uptime": "72.28%",
+    "uptime": "72.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -550,8 +549,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 603,
-      "2024-10-17": 231,
-      "2024-07-10": 265
+      "2024-10-17": 231
     }
   },
   {
@@ -566,9 +564,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 333,
-    "timeWeek": 276,
-    "timeMonth": 267,
+    "timeDay": 198,
+    "timeWeek": 286,
+    "timeMonth": 265,
     "timeYear": 251,
     "dailyMinutesDown": {}
   }
