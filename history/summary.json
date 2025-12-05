@@ -187,7 +187,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.96%",
+    "uptimeYear": "52.97%",
     "time": 738,
     "timeDay": 0,
     "timeWeek": 0,
@@ -378,7 +378,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.96%",
+    "uptimeYear": "52.97%",
     "time": 145,
     "timeDay": 0,
     "timeWeek": 0,
@@ -564,19 +564,19 @@
     "url": "https://o3as.readthedocs.io",
     "icon": "https://github.com/readthedocs/readthedocs.org/raw/master/docs/img/logo.png",
     "slug": "o3as-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 266,
-    "timeDay": 240,
-    "timeWeek": 236,
-    "timeMonth": 264,
+    "timeDay": 313,
+    "timeWeek": 261,
+    "timeMonth": 270,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-12-05": 0
+      "2025-12-05": 33
     }
   }
 ]
