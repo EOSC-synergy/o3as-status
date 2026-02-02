@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 815,
-    "timeDay": 678,
-    "timeWeek": 826,
-    "timeMonth": 810,
-    "timeYear": 820,
+    "timeDay": 939,
+    "timeWeek": 854,
+    "timeMonth": 820,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.71%",
     "time": 1202,
-    "timeDay": 890,
-    "timeWeek": 1482,
-    "timeMonth": 1695,
+    "timeDay": 1110,
+    "timeWeek": 1302,
+    "timeMonth": 1667,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2025-09-23": 927,
@@ -108,10 +108,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.71%",
-    "time": 700,
-    "timeDay": 720,
-    "timeWeek": 1040,
-    "timeMonth": 1054,
+    "time": 699,
+    "timeDay": 556,
+    "timeWeek": 943,
+    "timeMonth": 1031,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2025-09-23": 927,
@@ -183,11 +183,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-testing-api-testing-endpoint",
     "status": "down",
-    "uptime": "80.67%",
+    "uptime": "80.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.72%",
+    "uptimeYear": "68.99%",
     "time": 756,
     "timeDay": 0,
     "timeWeek": 0,
@@ -306,8 +306,7 @@
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
-      "2025-02-03": 1440,
-      "2025-02-02": 1440
+      "2025-02-03": 1440
     }
   },
   {
@@ -316,11 +315,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "o3api-development-api-development-endpoint",
     "status": "down",
-    "uptime": "75.81%",
+    "uptime": "75.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.72%",
+    "uptimeYear": "68.99%",
     "time": 143,
     "timeDay": 0,
     "timeWeek": 0,
@@ -439,8 +438,7 @@
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
-      "2025-02-03": 1440,
-      "2025-02-02": 1440
+      "2025-02-03": 1440
     }
   },
   {
@@ -455,8 +453,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 270,
-    "timeDay": 325,
-    "timeWeek": 221,
+    "timeDay": 208,
+    "timeWeek": 236,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
